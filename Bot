@@ -1,0 +1,24 @@
+// 7 x 7 tiles = 49 tiles
+// Get Screen size: 1920 by 1080
+// Mouse cursor 
+//mouse cursor cordinates
+//cordinates of each of the 49 tiles
+//Direction the cursor needs to move in order to progress
+//Either up,down,left,right
+/*
+if tile1 == tile2 and are next to each other, 
+Could use an array to grab from all of the tiles
+string tiles[48] = {];
+
+
+
+
+mouse cursor moves to cordinates, clicks on either of them,
+and drags to towards the other idential tile.
+
+If you were to read the memory address, you need to open the process
+
+OpenProcess "Game.exe"
+
+Then try and read from memory.
+*/
